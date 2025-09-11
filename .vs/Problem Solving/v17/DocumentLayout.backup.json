@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MICHEAL\\OneDrive\\Desktop\\Problem Solving\\",
+  "WorkspaceRootPath": "D:\\Problem Solving\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5606964-6219-4E5E-A1DB-A4DA25B44BF2}|Problem Solving.csproj|c:\\users\\micheal\\onedrive\\desktop\\problem solving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5606964-6219-4E5E-A1DB-A4DA25B44BF2}|Problem Solving.csproj|d:\\problem solving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5606964-6219-4E5E-A1DB-A4DA25B44BF2}|Problem Solving.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -72,11 +72,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\OneDrive\\Desktop\\Problem Solving\\Program.cs",
+              "DocumentMoniker": "D:\\Problem Solving\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\OneDrive\\Desktop\\Problem Solving\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "ToolTip": "D:\\Problem Solving\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T20:22:17.486Z",
               "EditorCaption": ""
