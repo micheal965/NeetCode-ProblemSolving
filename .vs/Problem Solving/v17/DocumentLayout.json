@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C5606964-6219-4E5E-A1DB-A4DA25B44BF2}|Problem Solving.csproj|d:\\problem solving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5606964-6219-4E5E-A1DB-A4DA25B44BF2}|Problem Solving.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5606964-6219-4E5E-A1DB-A4DA25B44BF2}|Problem Solving.csproj|d:\\problem solving\\neetcode\\day 5\\evalrpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5606964-6219-4E5E-A1DB-A4DA25B44BF2}|Problem Solving.csproj|solutionrelative:neetcode\\day 5\\evalrpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 13,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,13 +74,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvalRPN.cs",
+              "DocumentMoniker": "D:\\Problem Solving\\NeetCode\\Day 5\\EvalRPN.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Day 5\\EvalRPN.cs",
+              "ToolTip": "D:\\Problem Solving\\NeetCode\\Day 5\\EvalRPN.cs",
+              "RelativeToolTip": "NeetCode\\Day 5\\EvalRPN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T03:03:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Problem Solving\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Problem Solving\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T20:22:17.486Z",
               "EditorCaption": ""
