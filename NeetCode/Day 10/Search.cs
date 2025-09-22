@@ -1,0 +1,29 @@
+﻿namespace Problem_Solving.NeetCode.Day_10
+{
+    internal class Search
+    {
+
+
+
+        /* Input: nums = [-1,0,2,4,6,8], target = 3
+         *                 0 1 2 3 4 5
+         Output: 3 */
+        //public int Search(int[] nums, int target)
+        //{
+        //    int left = 0;
+        //    int right = nums.Length - 1;
+
+        //    while (left <= right)
+        //    {
+        //        int mid = left + (right - left) / 2;
+        //        if (nums[mid] == target)
+        //            return mid;
+        //        else if (nums[mid] < target)
+        //            left = mid + 1;
+        //        else
+        //            right = mid - 1;
+        //    }
+        //    return -1;
+        //}
+    }
+}
